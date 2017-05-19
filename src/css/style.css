@@ -1,0 +1,14 @@
+
+div div {
+margin: auto auto;
+text-align: center;
+}
+
+#output {
+text-align:left;
+}
+
+textarea {
+width:80%;
+height:500px;
+}
